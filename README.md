@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Computer Science. I'm interested on Web Development. In Venezuela.</p>
+<p align="left">Computer Science. I'm interested in Web Development. In Venezuela.</p>
 
 ###
 
